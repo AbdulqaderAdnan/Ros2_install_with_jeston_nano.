@@ -1,0 +1,6 @@
+# ros2_install_with_jeston_nano
+-FIRST START YOUR UBUNU 
+-SECONED START TERMINAL 
+-FOLLOW THE DIRECTION 
+here the link: https://youtu.be/fr6TXEd2rXI
+*NOTE: IF U ALREADY INSTALL ROS SKIP THE DIRECTIONS OF ROS
